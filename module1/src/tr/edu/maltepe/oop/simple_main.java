@@ -1,5 +1,5 @@
 package tr.edu.maltepe.oop;
-public  class imple_main {
+public  class simple_main {
 
  public static void main(String []args){
         //
